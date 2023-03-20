@@ -25,13 +25,13 @@ printf "\e[1;92m        ▀                                             \e[0m\n"
 
                                             
 
-printf "by asxxb"
+printf "by asxxb \n"
 
 
 
 
 
-printf " \e[1;77m v1.0 coded by github.com/thelinuxchoice/camfetch\e[0m \n"
+printf " \e[1;77m v1.0 coded by https://github.com/asxxb/camfetch\e[0m \n"
 
 printf "\n"
 
