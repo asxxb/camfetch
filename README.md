@@ -1,2 +1,9 @@
-# camfetch
-access target cam through a single link 
+
+## Installing (Kali Linux/Termux):
+
+```
+git clone https://github.com/thelinuxchoice/saycheese
+cd saycheese
+bash saycheese
+```
+
